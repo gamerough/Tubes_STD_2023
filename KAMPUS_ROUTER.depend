@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1672878785 source:d:\tel-u\semester 3\struktur data\tugas\tubes\kampus_router\kampus.cpp
+	"kampus.h"
+
+1672845556 source:d:\tel-u\semester 3\struktur data\tugas\tubes\kampus_router\main.cpp
+	<iostream>
+	"kampus.h"
+
+1672822455 d:\tel-u\semester 3\struktur data\tugas\tubes\kampus_router\kampus.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1672134134 source:c:\users\windows\downloads\kampus_router\main.cpp
+	<iostream>
+	"kampus.h"
+
+1672134082 c:\users\windows\downloads\kampus_router\kampus.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1672134082 source:c:\users\windows\downloads\kampus_router\kampus.cpp
+	"kampus.h"
+
